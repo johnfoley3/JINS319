@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 APR 2014 15:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 APR 2014 16:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -64,18 +64,18 @@ Package: parskip 2001/04/09 non-zero parskip adjustments
 (/Users/johnfoley/JINS319/out/foleypaperjins319.aux)
 \openout1 = `foleypaperjins319.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -112,24 +112,24 @@ LaTeX Font Info:    ... okay on input line 11.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 13.
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(/Users/johnfoley/JINS319/out/foleypaperjins319.bbl [2]) [3]
+[2] (/Users/johnfoley/JINS319/out/foleypaperjins319.bbl [3]) [4]
 (/Users/johnfoley/JINS319/out/foleypaperjins319.aux) ) 
 Here is how much of TeX's memory you used:
- 808 strings out of 493315
- 11743 string characters out of 6137904
- 69806 words of memory out of 5000000
- 4303 multiletter control sequences out of 15000+600000
+ 809 strings out of 493315
+ 11746 string characters out of 6137904
+ 69815 words of memory out of 5000000
+ 4304 multiletter control sequences out of 15000+600000
  8541 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 24i,6n,32p,170b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,6n,32p,170b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/te
@@ -137,11 +137,11 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2013/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /Users/johnfoley/JINS319/out/foleypaperjins319.pdf (3 pages, 
-89795 bytes).
+Output written on /Users/johnfoley/JINS319/out/foleypaperjins319.pdf (4 pages, 
+92653 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 41 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
