@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{Barnett:1987:HDM:41526.41531}
+G.~O. Barnett.
+\newblock History of the development of medical information systems at the
+  laboratory of computer science at massachusetts general hospital.
+\newblock In {\em Proceedings of ACM Conference on History of Medical
+  Informatics}, HMI '87, pages 43--49, New York, NY, USA, 1987. ACM.
+
+\bibitem{McCoy:2012:LUP:2392701.2392704}
+Wilson McCoy, Jeff~B. Pelz, Cecilia~Ovesdotter Alm, Pengcheng Shi, Cara
+  Calvelli, and Anne Haake.
+\newblock Linking uncertainty in physicians' narratives to diagnostic
+  correctness.
+\newblock In {\em Proceedings of the Workshop on Extra-Propositional Aspects of
+  Meaning in Computational Linguistics}, ExProM '12, pages 19--27, Stroudsburg,
+  PA, USA, 2012. Association for Computational Linguistics.
+
+\bibitem{Wang:2007:ACC:1229968.1229975}
+Lipo Wang, Feng Chu, and Wei Xie.
+\newblock Accurate cancer classification using expressions of very few genes.
+\newblock {\em IEEE/ACM Trans. Comput. Biol. Bioinformatics}, 4(1):40--53,
+  January 2007.
+
+\bibitem{Womack:2012:DEI:2392701.2392702}
+Kathryn Womack, Wilson McCoy, Cecilia~Ovesdotter Alm, Cara Calvelli, Jeff~B.
+  Pelz, Pengcheng Shi, and Anne Haake.
+\newblock Disfluencies as extra-propositional indicators of cognitive
+  processing.
+\newblock In {\em Proceedings of the Workshop on Extra-Propositional Aspects of
+  Meaning in Computational Linguistics}, ExProM '12, pages 1--9, Stroudsburg,
+  PA, USA, 2012. Association for Computational Linguistics.
+
+\bibitem{Zhang:2002:PPU:514191.514232}
+F.~Zhang, A.~Bilas, A.~Dhanantwari, K.~N. Plataniotis, R.~Abiprojo, and
+  S.~Stergiopoulos.
+\newblock Parallelization and performance of 3d ultrasound imaging beamforming
+  algorithms on modern clusters.
+\newblock In {\em Proceedings of the 16th International Conference on
+  Supercomputing}, ICS '02, pages 294--304, New York, NY, USA, 2002. ACM.
+
+\end{thebibliography}
