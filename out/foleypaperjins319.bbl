@@ -1,5 +1,12 @@
 \begin{thebibliography}{1}
 
+\bibitem{Baesler:2001:HIM:564124.564329}
+Felipe~F. Baesler and Jos{\'e}~A. Sep\'{u}lveda.
+\newblock Healthcare ii: Multi-objective simulation optimization for a cancer
+  treatment center.
+\newblock In {\em Proceedings of the 33Nd Conference on Winter Simulation}, WSC
+  '01, pages 1405--1411, Washington, DC, USA, 2001. IEEE Computer Society.
+
 \bibitem{Barnett:1987:HDM:41526.41531}
 G.~O. Barnett.
 \newblock History of the development of medical information systems at the
@@ -21,6 +28,13 @@ Lipo Wang, Feng Chu, and Wei Xie.
 \newblock Accurate cancer classification using expressions of very few genes.
 \newblock {\em IEEE/ACM Trans. Comput. Biol. Bioinformatics}, 4(1):40--53,
   January 2007.
+
+\bibitem{Wang:2012:RCM:2122263.2122454}
+Shu-Lin Wang, Yi-Hai Zhu, Wei Jia, and De-Shuang Huang.
+\newblock Robust classification method of tumor subtype by using correlation
+  filters.
+\newblock {\em IEEE/ACM Trans. Comput. Biol. Bioinformatics}, 9(2):580--591,
+  March 2012.
 
 \bibitem{Womack:2012:DEI:2392701.2392702}
 Kathryn Womack, Wilson McCoy, Cecilia~Ovesdotter Alm, Cara Calvelli, Jeff~B.
