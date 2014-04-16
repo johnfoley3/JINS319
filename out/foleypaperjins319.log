@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 APR 2014 20:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 APR 2014 21:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -120,25 +120,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] [6] (/Users/johnfoley/JINS319/out/foleypaperjins319.bbl)
-[7] (/Users/johnfoley/JINS319/out/foleypaperjins319.aux) ) 
+[2] [3] [4] [5] [6] (/Users/johnfoley/JINS319/out/foleypaperjins319.bbl
+Underfull \hbox (badness 2277) in paragraph at lines 49--53
+[]\OT1/cmr/m/n/10.95 Stephen R. Yarnall and Richard A. Kro-n-mal.  Com-puter ai
+ds to med-i-cal di-ag-no-
+ []
+
+) [7] (/Users/johnfoley/JINS319/out/foleypaperjins319.aux) ) 
 Here is how much of TeX's memory you used:
- 813 strings out of 493315
- 11825 string characters out of 6137904
- 70821 words of memory out of 5000000
- 4308 multiletter control sequences out of 15000+600000
+ 814 strings out of 493315
+ 11857 string characters out of 6137904
+ 70824 words of memory out of 5000000
+ 4309 multiletter control sequences out of 15000+600000
  8541 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 24i,6n,32p,177b,181s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2
-013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/20
-13/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2013/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+ 24i,6n,32p,183b,181s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive
+/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2
+013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on /Users/johnfoley/JINS319/out/foleypaperjins319.pdf (7 pages, 
-98991 bytes).
+102145 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
