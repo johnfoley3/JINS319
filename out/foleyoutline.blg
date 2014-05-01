@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: out/foleyoutline.aux
 The style file: plain.bst
 Database file #1: master.bib
-You've used 5 entries,
+You've used 8 entries,
             2118 wiz_defined-function locations,
-            539 strings with 5609 characters,
-and the built_in function-call counts, 2455 in all, are:
-= -- 254
-> -- 129
-< -- 4
-+ -- 51
-- -- 46
-* -- 184
-:= -- 392
-add.period$ -- 19
-call.type$ -- 5
-change.case$ -- 38
+            563 strings with 6355 characters,
+and the built_in function-call counts, 3826 in all, are:
+= -- 406
+> -- 178
+< -- 6
++ -- 70
+- -- 62
+* -- 277
+:= -- 594
+add.period$ -- 30
+call.type$ -- 8
+change.case$ -- 55
 chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 95
-empty$ -- 170
-format.name$ -- 46
-if$ -- 532
+cite$ -- 8
+duplicate$ -- 154
+empty$ -- 278
+format.name$ -- 62
+if$ -- 842
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 5
-newline$ -- 28
-num.names$ -- 10
-pop$ -- 36
+int.to.str$ -- 8
+missing$ -- 8
+newline$ -- 43
+num.names$ -- 16
+pop$ -- 51
 preamble$ -- 1
-purify$ -- 33
+purify$ -- 47
 quote$ -- 0
-skip$ -- 71
+skip$ -- 121
 stack$ -- 0
-substring$ -- 140
-swap$ -- 33
-text.length$ -- 4
+substring$ -- 252
+swap$ -- 56
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
+type$ -- 32
 warning$ -- 0
-while$ -- 24
-width$ -- 6
-write$ -- 69
+while$ -- 38
+width$ -- 9
+write$ -- 108
