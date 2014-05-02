@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Baesler:2001:HIM:564124.564329}
 Felipe~F. Baesler and Jos{\'e}~A. Sep\'{u}lveda.
@@ -14,6 +14,12 @@ G.~O. Barnett.
 \newblock In {\em Proceedings of ACM Conference on History of Medical
   Informatics}, HMI '87, pages 43--49, New York, NY, USA, 1987. ACM.
 
+\bibitem{doi:10.1287/mnsc.29.6.653}
+Marinus~J. Bouwman.
+\newblock Human diagnostic reasoning by computer: An illustration from
+  financial analysis.
+\newblock {\em Management Science}, 29(6):653--672, 1983.
+
 \bibitem{McCoy:2012:LUP:2392701.2392704}
 Wilson McCoy, Jeff~B. Pelz, Cecilia~Ovesdotter Alm, Pengcheng Shi, Cara
   Calvelli, and Anne Haake.
@@ -22,6 +28,13 @@ Wilson McCoy, Jeff~B. Pelz, Cecilia~Ovesdotter Alm, Pengcheng Shi, Cara
 \newblock In {\em Proceedings of the Workshop on Extra-Propositional Aspects of
   Meaning in Computational Linguistics}, ExProM '12, pages 19--27, Stroudsburg,
   PA, USA, 2012. Association for Computational Linguistics.
+
+\bibitem{McDonald}
+CJ~McDonald.
+\newblock Protocol-based computer reminders, the quality of care and the
+  non-perfectability of man.
+\newblock {\em The New England journal of medicine}, 295(24):1351--1355, 12
+  1976.
 
 \bibitem{Wang:2007:ACC:1229968.1229975}
 Lipo Wang, Feng Chu, and Wei Xie.
